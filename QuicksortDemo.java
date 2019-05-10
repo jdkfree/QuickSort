@@ -1,6 +1,8 @@
 /* The following code is an implementation of the quicksort algorithm. The quicksort algorithm is one of the most effective ways to sort  
  * an array in ascending order. The quicksort algorithm is a divide and conquer algorithm, and involves dividing the array into two segments 
  * called partions. In order to do this, all elements are compared to the pivot.
+ * Ananya Vishwanath and Justin Freemantle
+ * April 10 2019
  */
 
 import java.util.Arrays;
